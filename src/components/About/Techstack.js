@@ -1,12 +1,6 @@
 import React from "react";
 import { Col, Row } from "react-bootstrap";
-import {
-  DiJavascript1,
-  DiReact,
-  DiHtml5,
-  DiCss3,
-  DiBootstrap
-} from "react-icons/di";
+import { DiJavascript1, DiReact, DiHtml5, DiCss3, DiBootstrap } from "react-icons/di";
 import { SiFirebase, SiMaterialdesignicons, SiTailwindcss, SiRedux, SiGithub } from "react-icons/si";
 
 function Techstack() {
