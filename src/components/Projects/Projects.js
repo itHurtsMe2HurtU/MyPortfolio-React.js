@@ -39,7 +39,7 @@ function Projects() {
               isBlog={false}
               title="Pizza Website"
               description="A pizza website having multiple pages built with React.js and styled with Css."
-              link="https://github.com/itHurtsMe2HurtU/Manu-Pizza/tree/master"
+              link="https://ithurtsme2hurtu.github.io/Manu-Pizza/"
             />
           </Col>
 
@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="Animated Website"
               description="A website having multiple pages built with React.js and styled with Css/ Bootstrap. It's contact us page is integrated with the emailjs feature to send the data directly to my emailid."
-              link="https://eloquent-brattain-ae591b.netlify.app/"
+              link="https://ithurtsme2hurtu.github.io/AnimatedWebsite1/"
             />
           </Col>
 
