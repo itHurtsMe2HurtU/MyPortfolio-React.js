@@ -4,8 +4,8 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
 import ecommerce from "../../Assets/Projects/ecommerceProgress1.png";
-import pizza from "../../Assets/Projects/PizzaAppImage1.jpg";
-import animated from "../../Assets/Projects/AnimatedAppImage1.jpg";
+import pizza from "../../Assets/Projects/pizza2.JPG";
+import animated from "../../Assets/Projects/animated2.JPG";
 import movie from "../../Assets/Projects/MovieAppImage1.png";
 import quiz from "../../Assets/Projects/QuizAppImage1.png";
 import weather from "../../Assets/Projects/WeatherAppImage1.png";
