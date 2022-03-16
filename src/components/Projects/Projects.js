@@ -3,12 +3,13 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 
-import leaf from "../../Assets/Projects/leaf.png";
-import emotion from "../../Assets/Projects/emotion.jpeg";
-import editor from "../../Assets/Projects/codeEditor.png";
 import ecommerce from "../../Assets/Projects/ecommerceProgress1.png";
-import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import pizza from "../../Assets/Projects/PizzaAppImage1.jpg";
+import animated from "../../Assets/Projects/AnimatedAppImage1.jpg";
+import movie from "../../Assets/Projects/MovieAppImage1.png";
+import quiz from "../../Assets/Projects/QuizAppImage1.png";
+import weather from "../../Assets/Projects/WeatherAppImage1.png";
+
 
 function Projects() {
   return (
@@ -27,59 +28,58 @@ function Projects() {
               imgPath={ecommerce}
               isBlog={false}
               title="Ecommerce Website"
-              description="Personal Chat Room or Workspace to share resources and hangout with friends build with react.js, Material-UI, and Firebase. Have features which allows user for realtime messaging, image sharing as well as supports reactions on messages."
+              description="An E-commerce website having home page, product page, add to cart, and payment features."
               link="https://github.com/itHurtsMe2HurtU?tab=repositories"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={leaf}
+              imgPath={pizza}
               isBlog={false}
-              title="Plant AI"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              link="https://github.com/soumyajit4419/Plant_AI"
+              title="Pizza Website"
+              description="A pizza website having multiple pages built with React.js and styled with Css."
+              link="https://github.com/itHurtsMe2HurtU/Manu-Pizza/tree/master"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={editor}
+              imgPath={animated}
               isBlog={false}
-              title="Editor.io"
-              description="Online code and markdown editor build with react.js. Online Editor which supports html, css, and js code with instant view of website. Online markdown editor for building README file which supports GFM, Custom Html tags with toolbar and instant preview.Both the editor supports auto save of work using Local Storage"
-              link="https://github.com/soumyajit4419/Editor.io"
+              title="Animated Website"
+              description="A website having multiple pages built with React.js and styled with Css/ Bootstrap. It's contact us page is integrated with the emailjs feature to send the data directly to my emailid."
+              link="https://github.com/itHurtsMe2HurtU/Animated-React-Website1/tree/master"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={bitsOfCode}
+              imgPath={movie}
               isBlog={false}
-              title="Bits-0f-C0de"
-              description="My personal blog page build with Next.js and Tailwind Css which takes the content from makdown files and renders it using Next.js. Supports dark mode and easy to write blogs using markdown."
-              link="https://github.com/soumyajit4419/Bits-0f-C0de"
+              title="MovieAdda"
+              description="A website built with React.js which is using an API call to render the list of movies and having a Search-functionality as well. The designing has been done with CSS."
+              link="https://github.com/itHurtsMe2HurtU/MovieAdda/tree/master"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={suicide}
+              imgPath={quiz}
               isBlog={false}
-              title="Ai For Social Good"
-              description="Using 'Natural Launguage Processing' for the detection of suicide-related posts and user's suicide ideation in cyberspace  and thus helping in sucide prevention."
-              link="https://github.com/soumyajit4419/AI_For_Social_Good"
+              title="React Quiz App"
+              description="A quiz app built with React.js using the react hooks and styled with Css."
+              link="https://github.com/itHurtsMe2HurtU/React.js-Quiz-App/tree/master"
             />
           </Col>
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={emotion}
+              imgPath={weather}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
-              link="https://github.com/soumyajit4419/Face_And_Emotion_Detection"
+              title="Weather App"
+              description="A weather app bilt with the help of React.js where Api calls has been made wit the help of Axios to get the weather data. Styling is done using Css."
+              link="https://github.com/itHurtsMe2HurtU/Weather-App-Using-React.js-and-Axios-API/tree/master"
             />
           </Col>
         </Row>
