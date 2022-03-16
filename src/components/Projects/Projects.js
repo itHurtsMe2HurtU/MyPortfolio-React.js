@@ -49,7 +49,7 @@ function Projects() {
               isBlog={false}
               title="Animated Website"
               description="A website having multiple pages built with React.js and styled with Css/ Bootstrap. It's contact us page is integrated with the emailjs feature to send the data directly to my emailid."
-              link="https://github.com/itHurtsMe2HurtU/Animated-React-Website1/tree/master"
+              link="https://eloquent-brattain-ae591b.netlify.app/"
             />
           </Col>
 
