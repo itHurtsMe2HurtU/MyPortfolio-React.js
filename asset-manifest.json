@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/MyPortfolio-React.js/static/css/main.16e2b692.chunk.css",
-    "main.js": "/MyPortfolio-React.js/static/js/main.14152ce9.chunk.js",
-    "main.js.map": "/MyPortfolio-React.js/static/js/main.14152ce9.chunk.js.map",
+    "main.js": "/MyPortfolio-React.js/static/js/main.3bd1fbd9.chunk.js",
+    "main.js.map": "/MyPortfolio-React.js/static/js/main.3bd1fbd9.chunk.js.map",
     "runtime-main.js": "/MyPortfolio-React.js/static/js/runtime-main.9ae94829.js",
     "runtime-main.js.map": "/MyPortfolio-React.js/static/js/runtime-main.9ae94829.js.map",
     "static/css/2.86cd6d42.chunk.css": "/MyPortfolio-React.js/static/css/2.86cd6d42.chunk.css",
@@ -12,22 +12,22 @@
     "static/css/2.86cd6d42.chunk.css.map": "/MyPortfolio-React.js/static/css/2.86cd6d42.chunk.css.map",
     "static/css/main.16e2b692.chunk.css.map": "/MyPortfolio-React.js/static/css/main.16e2b692.chunk.css.map",
     "static/js/2.64b06285.chunk.js.LICENSE.txt": "/MyPortfolio-React.js/static/js/2.64b06285.chunk.js.LICENSE.txt",
-    "static/media/AnimatedAppImage1.d1804098.jpg": "/MyPortfolio-React.js/static/media/AnimatedAppImage1.d1804098.jpg",
     "static/media/MovieAppImage1.94c36e4f.png": "/MyPortfolio-React.js/static/media/MovieAppImage1.94c36e4f.png",
-    "static/media/PizzaAppImage1.04e15141.jpg": "/MyPortfolio-React.js/static/media/PizzaAppImage1.04e15141.jpg",
     "static/media/QuizAppImage1.a2022a7b.png": "/MyPortfolio-React.js/static/media/QuizAppImage1.a2022a7b.png",
     "static/media/WeatherAppImage1.43934384.png": "/MyPortfolio-React.js/static/media/WeatherAppImage1.43934384.png",
     "static/media/about.aee0f771.png": "/MyPortfolio-React.js/static/media/about.aee0f771.png",
+    "static/media/animated2.aef7ca37.JPG": "/MyPortfolio-React.js/static/media/animated2.aef7ca37.JPG",
     "static/media/avatar.7f806e40.svg": "/MyPortfolio-React.js/static/media/avatar.7f806e40.svg",
     "static/media/ecommerceProgress1.b139debe.png": "/MyPortfolio-React.js/static/media/ecommerceProgress1.b139debe.png",
     "static/media/style.css": "/MyPortfolio-React.js/static/media/pre.4410c5ba.svg",
-    "static/media/home-main.359935c3.svg": "/MyPortfolio-React.js/static/media/home-main.359935c3.svg"
+    "static/media/home-main.359935c3.svg": "/MyPortfolio-React.js/static/media/home-main.359935c3.svg",
+    "static/media/pizza2.06f686b6.JPG": "/MyPortfolio-React.js/static/media/pizza2.06f686b6.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.9ae94829.js",
     "static/css/2.86cd6d42.chunk.css",
     "static/js/2.64b06285.chunk.js",
     "static/css/main.16e2b692.chunk.css",
-    "static/js/main.14152ce9.chunk.js"
+    "static/js/main.3bd1fbd9.chunk.js"
   ]
 }
