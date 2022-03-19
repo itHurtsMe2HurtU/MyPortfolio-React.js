@@ -1,17 +1,14 @@
 import React, { useState } from "react";
-import Navbar from "react-bootstrap/Navbar";
-import Nav from "react-bootstrap/Nav";
-import Container from "react-bootstrap/Container";
-import logo from "../Assets/logo1.jpg";
 import Button from "react-bootstrap/Button";
-import { Link } from "react-router-dom";
-import { CgGitFork } from "react-icons/cg";
+import Container from "react-bootstrap/Container";
+import Nav from "react-bootstrap/Nav";
+import Navbar from "react-bootstrap/Navbar";
 import {
-  AiFillStar,
-  AiOutlineHome,
-  AiOutlineFundProjectionScreen,
-  AiOutlineUser,
+  AiFillStar, AiOutlineFundProjectionScreen, AiOutlineHome, AiOutlineUser
 } from "react-icons/ai";
+import { CgGitFork } from "react-icons/cg";
+import { Link } from "react-router-dom";
+import logo from "../Assets/logo1.jpg";
 
 function NavBar() {
   const [expand, updateExpanded] = useState(false);

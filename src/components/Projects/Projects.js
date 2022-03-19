@@ -1,14 +1,14 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import ProjectCard from "./ProjectCards";
-import Particle from "../Particle";
-
-import ecommerce from "../../Assets/Projects/ecommerceProgress1.png";
-import pizza from "../../Assets/Projects/pizza2.JPG";
+import { Col, Container, Row } from "react-bootstrap";
 import animated from "../../Assets/Projects/animated2.JPG";
+import ecommerce from "../../Assets/Projects/ecommerceProgress1.png";
 import movie from "../../Assets/Projects/MovieAppImage1.png";
-import quiz from "../../Assets/Projects/QuizAppImage1.png";
+import pizza from "../../Assets/Projects/pizza2.JPG";
+import quiz from "../../Assets/Projects/quiz1.JPG";
 import weather from "../../Assets/Projects/WeatherAppImage1.png";
+import Particle from "../Particle";
+import ProjectCard from "./ProjectCards";
+
 
 
 function Projects() {

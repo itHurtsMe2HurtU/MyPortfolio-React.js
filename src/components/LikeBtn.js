@@ -1,7 +1,7 @@
-import React, { useState, useEffect } from "react";
-import Nav from "react-bootstrap/Nav";
-import Button from "react-bootstrap/Button";
 import axios from "axios";
+import React, { useEffect, useState } from "react";
+import Button from "react-bootstrap/Button";
+import Nav from "react-bootstrap/Nav";
 
 function Like() {
   const uri = "https://porfolio-backend.vercel.app/likes/getLikes";

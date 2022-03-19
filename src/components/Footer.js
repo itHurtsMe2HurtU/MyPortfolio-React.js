@@ -1,9 +1,7 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
+import { Col, Container, Row } from "react-bootstrap";
 import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
+  AiFillGithub, AiFillInstagram, AiOutlineTwitter
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
 

@@ -1,13 +1,11 @@
 import React from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import myImg from "../../Assets/avatar.svg";
-import Tilt from "react-parallax-tilt";
+import { Col, Container, Row } from "react-bootstrap";
 import {
-  AiFillGithub,
-  AiOutlineTwitter,
-  AiFillInstagram,
+  AiFillGithub, AiFillInstagram, AiOutlineTwitter
 } from "react-icons/ai";
 import { FaLinkedinIn } from "react-icons/fa";
+import Tilt from "react-parallax-tilt";
+import myImg from "../../Assets/avatar.svg";
 
 function Home2() {
   return (
@@ -19,8 +17,8 @@ function Home2() {
               LET ME <span className="purple"> INTRODUCE </span> MYSELF
             </h1>
             <p className="home-about-body">
-              I fell in love with programming and I have at least learnt
-              something, I think… 🤷‍♂️
+              I fell in love with programming and I have a zest to design and
+              develop the web solutions...  🤷‍♂️
               <br />
               <br />I am fluent in classics like
               <i>
@@ -47,7 +45,7 @@ function Home2() {
               </i>
               &nbsp; like
               <i>
-                <b className="purple"> Next.js</b>
+                <b className="purple"> React.js</b>
               </i>
             </p>
           </Col>
